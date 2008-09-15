@@ -1,3 +1,11 @@
+/* Portions of this code based on ICU. */
+/*
+ ********************************************************************************
+ *   Copyright (C) 1996-2008, International Business Machines
+ *   Corporation and others.  All Rights Reserved.
+ ********************************************************************************
+ */
+
 #include "utext.cpp"
 
 // The state number of the starting state

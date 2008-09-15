@@ -1,10 +1,18 @@
+/* Portions of this code based on ICU. */
+/*
+ ********************************************************************************
+ *   Copyright (C) 1996-2008, International Business Machines
+ *   Corporation and others.  All Rights Reserved.
+ ********************************************************************************
+ */
+
 // Internal file
 #ifndef __RBBIDATA_H__
 #define __RBBIDATA_H__
 
 #include "utypes.h"
 
-// icu\source\common\unicode\udata.h
+/* icu\source\common\unicode\udata.h */
 /**
  * UDataInfo contains the properties about the requested data.
  * This is meta data.

@@ -1,3 +1,11 @@
+/* Portions of this code based on ICU. */
+/*
+ ********************************************************************************
+ *   Copyright (C) 1996-2008, International Business Machines
+ *   Corporation and others.  All Rights Reserved.
+ ********************************************************************************
+ */
+
 struct UText;
 typedef struct UText UText; /**< C typedef for struct UText. @stable ICU 3.6 */
 

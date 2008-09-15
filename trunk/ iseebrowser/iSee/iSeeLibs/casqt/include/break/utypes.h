@@ -1,3 +1,11 @@
+/* Portions of this code based on ICU. */
+/*
+ ********************************************************************************
+ *   Copyright (C) 1996-2008, International Business Machines
+ *   Corporation and others.  All Rights Reserved.
+ ********************************************************************************
+ */
+
 #ifndef _UTYPES_H_
 #define _UTYPES_H_
 

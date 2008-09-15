@@ -1,8 +1,9 @@
+/* Portions of this code based on QT. */
 /****************************************************************************
 **
 ** Copyright (C) 1992-2008 Trolltech ASA. All rights reserved.
 **
-** This file is part of the plugins of the Qt Toolkit.
+** This file is part of the QtCore module of the Qt Toolkit.
 **
 ** This file may be used under the terms of the GNU General Public
 ** License versions 2.0 or 3.0 as published by the Free Software
